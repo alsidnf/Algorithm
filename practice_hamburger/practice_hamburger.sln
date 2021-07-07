@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practice_hamburger", "practice_hamburger.vcxproj", "{EAFE0596-5B3D-4CDB-A937-07872D4604EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Debug|x64.ActiveCfg = Debug|x64
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Debug|x64.Build.0 = Debug|x64
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Debug|x86.Build.0 = Debug|Win32
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Release|x64.ActiveCfg = Release|x64
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Release|x64.Build.0 = Release|x64
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Release|x86.ActiveCfg = Release|Win32
+		{EAFE0596-5B3D-4CDB-A937-07872D4604EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A79897D-FB6B-45FF-A3D2-2B3A77AE4606}
+	EndGlobalSection
+EndGlobal
